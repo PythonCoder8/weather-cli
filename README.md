@@ -11,7 +11,7 @@ pip3 install requests
 ```
 When running the program it will prompt the user to enter a city. To be specific and make sure that it shows the weather of the right city, type in the country too.
 
-For example, if you wanted to find the weather of Toronto, you would type:
+For example, if you wanted to find the weather in Toronto, you would type:
 
 ```
 Toronto, CA
