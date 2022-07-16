@@ -17,7 +17,7 @@ For example, if you wanted to find the weather of Toronto, you would type:
 Toronto, CA
 ```
 
-If you wanted to find the weather of Los Angeles, you would type:
+If you wanted to find the weather in Los Angeles, you would type:
 
 ```
 Los Angeles, US
