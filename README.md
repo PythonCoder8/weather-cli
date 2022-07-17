@@ -1,4 +1,4 @@
-# weather
+# weather-cli
 A command line program to find the weather of a city selected by the user. Written in python 3. It uses the [openweathermap.org](openweathermap.org) api to receive a json file and filter out ingormation from the json received. 
 
 This program uses the [pprint](https://docs.python.org/3/library/pprint.html) module and the [requests](https://pypi.org/project/requests/) module. Pprint is already installed with python 3 but requests isn't.
