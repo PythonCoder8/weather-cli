@@ -2,7 +2,7 @@ from requests import get
 from pprint import pprint
 
 city = input("Which city do you want the weather of?: ")
-url = f"https://api.openweathermap.org/data/2.5/weather?units=metric&appid=API_KEY&q={city}"
+url = f"https://api.openweathermap.org/data/2.5/weather?units=metric&appid={API_KEY}&q={city}"
 weather = get(url).json()
 if "," in city:
     print(
